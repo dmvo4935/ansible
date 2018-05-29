@@ -1,0 +1,6 @@
+[swarm_mgr]
+35.234.103.235 ansible_user=dmytro
+
+[swarm_nodes]
+35.234.95.44 ansible_user=dmytro
+
